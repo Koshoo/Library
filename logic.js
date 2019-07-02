@@ -140,7 +140,7 @@ function addReadBtnListener(changeReadbtn) {
 
 //Show form on button click
 newBookBtn.addEventListener("click", () => {
-	form.style.display = "block";
+	form.style.display = "inline-block";
 });
 
 //Getting input when submiting
